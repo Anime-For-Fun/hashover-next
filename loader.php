@@ -63,3 +63,4 @@ try {
 } catch (\Exception $error) {
 	echo Misc::displayException ($error, 'javascript');
 }
+!
